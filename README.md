@@ -44,3 +44,4 @@ The LSTM model generates a continuation character by character, predicting the n
 While LSTM-based generation might not be as fluent as GPT-2, it can still produce coherent and structured outputs, particularly in narrative-style text.
 
 **OUTPUT**: 
+![Screenshot (9)](https://github.com/user-attachments/assets/475ff7f3-c584-47fc-b794-16a71af1fff8)
